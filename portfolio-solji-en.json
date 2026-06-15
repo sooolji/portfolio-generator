@@ -2,14 +2,14 @@
   "lang": "en",
   "name": "Solji Charón Peña",
   "label": "Software Developer | Computer Scientist",
-  "image_path": "",
+  "image_path": "icon.png",
   "contact": {
     "email": "soljicharon@gmail.com",
     "phone": "+53 55632333",
     "location": "La Habana, Cuba"
   },
   "summary": "Software Developer with a strong foundation in Computer Science, experienced in building scalable full-stack applications and implementing efficient data management solutions.",
-  "base_url": "127.0.0.1:5500",
+  "base_url": "https://sooolji.github.io/portfolio-generator",
   "social_links": [
     {
       "label": "GitHub",
@@ -33,7 +33,7 @@
       "highlights": [
         "Developed the Purchases and Reporting (PDF/Excel) modules.",
         "Managed end-to-end deployment on the company's Ubuntu server.",
-        "Tech Stack: PostgreSQL (master-slave replication), Nginx audit logging."
+        "Tech Stack: PostgreSQL, Nginx audit logging."
       ]
     },
     {
@@ -44,7 +44,7 @@
       "end_date": "June 2026",
       "summary": "Designed and developed an end-to-end logistics ecosystem for shipment management, tracking, and customer support.",
       "highlights": [
-        "Backend Architecture: Built a centralized FastAPI API with a strict layered structure, SQLAlchemy 2.0 async, and PostgreSQL, deployed on Railway.",
+        "Backend Architecture: Built a centralized FastAPI API with a strict layered structure, SQLAlchemy and PostgreSQL, deployed on Railway.",
         "React Frontends: Developed 3 apps (Public Landing, Admin Dashboard, Tracking Portal) using React + Vite + Tailwind, deployed on Vercel.",
         "Automation & AI: Implemented a WhatsApp chatbot via n8n, Meta Cloud API, OpenRouter (LLM), and Google Sheets, self-hosted on a VPS with Docker Compose."
       ]
@@ -75,12 +75,12 @@
     }
   ],
   "skills": [
-    { "name": "Python / C++ / SQL / Git", "proficiency": 90, "proficiency_label": "Advanced" },
-    { "name": "React / TypeScript / Vite / Tailwind", "proficiency": 85, "proficiency_label": "Advanced" },
-    { "name": "FastAPI / REST APIs / Supabase", "proficiency": 85, "proficiency_label": "Advanced" },
-    { "name": "Docker / Linux / GitHub Actions / Vercel / Railway", "proficiency": 80, "proficiency_label": "Advanced" },
-    { "name": "n8n / Automation", "proficiency": 75, "proficiency_label": "Intermediate" },
-    { "name": "AWS / Cloud", "proficiency": 75, "proficiency_label": "Intermediate" }
+    { "name": "Python", "proficiency": 90, "proficiency_label": "Advanced" },
+    { "name": "C++", "proficiency": 90, "proficiency_label": "Advanced" },
+    { "name": "FastAPI", "proficiency": 70, "proficiency_label": "Intermediate" },
+    { "name": "Docker", "proficiency": 70, "proficiency_label": "Intermediate" },
+    { "name": "AWS", "proficiency": 70, "proficiency_label": "Intermediate" },
+    { "name": "DevOps", "proficiency": 70, "proficiency_label": "Intermediate" }
   ],
   "interests": [
     {
