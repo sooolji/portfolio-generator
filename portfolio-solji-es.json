@@ -1,0 +1,103 @@
+{
+  "lang": "es",
+  "name": "Solji Charón Peña",
+  "label": "Desarrollador de Software | Ciencias de la Computación",
+  "image_path": "",
+  "contact": {
+    "email": "soljicharon@gmail.com",
+    "phone": "+53 55632333",
+    "location": "La Habana, Cuba"
+  },
+  "summary": "Desarrollador de software con una sólida base en Ciencias de la Computación, con experiencia en la creación de aplicaciones full-stack escalables y soluciones eficientes de gestión de datos.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/sooolji",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/solji-charón-b89900389",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Caguayo",
+      "position": "Desarrollador Full Stack",
+      "url": "",
+      "start_date": "Enero 2026",
+      "end_date": "Junio 2026",
+      "summary": "Desarrollé un sistema ERP usando React (TypeScript) y FastAPI para inventario, ventas y contabilidad.",
+      "highlights": [
+        "Desarrollé los módulos de Compras y Reportes (PDF/Excel).",
+        "Gestioné el despliegue integral en el servidor Ubuntu de la empresa.",
+        "Stack tecnológico: PostgreSQL (réplica maestro-esclavo), auditoría con Nginx."
+      ]
+    },
+    {
+      "company": "Mar a Mar Shipping",
+      "position": "Desarrollador de Software",
+      "url": "",
+      "start_date": "Marzo 2026",
+      "end_date": "Junio 2026",
+      "summary": "Diseñé y desarrollé un ecosistema logístico integral para gestión de envíos, seguimiento y atención al cliente.",
+      "highlights": [
+        "Arquitectura backend: API centralizada con FastAPI, estructura en capas, SQLAlchemy 2.0 async y PostgreSQL, desplegada en Railway.",
+        "Frontends React: 3 aplicaciones (Landing Pública, Panel Admin, Portal de Seguimiento) con React + Vite + Tailwind, desplegadas en Vercel.",
+        "Automatización e IA: chatbot de WhatsApp con n8n, Meta Cloud API, OpenRouter (LLM) y Google Sheets, autoalojado en VPS con Docker Compose."
+      ]
+    }
+  ],
+  "projects": [],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "Universidad de Oriente",
+      "location": "Santiago de Cuba, Cuba",
+      "url": "https://www.uo.edu.cu/",
+      "degrees": ["Licenciatura en Ciencias de la Computación"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "Junio 2027"
+    },
+    {
+      "institution": "IPVCE José Maceo",
+      "location": "Santiago de Cuba, Cuba",
+      "url": "",
+      "degrees": ["Bachillerato"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "Junio 2024"
+    }
+  ],
+  "skills": [
+    { "name": "Python / C++ / SQL / Git", "proficiency": 90, "proficiency_label": "Avanzado" },
+    { "name": "React / TypeScript / Vite / Tailwind", "proficiency": 85, "proficiency_label": "Avanzado" },
+    { "name": "FastAPI / REST APIs / Supabase", "proficiency": 85, "proficiency_label": "Avanzado" },
+    { "name": "Docker / Linux / GitHub Actions / Vercel / Railway", "proficiency": 80, "proficiency_label": "Avanzado" },
+    { "name": "n8n / Automatización", "proficiency": 75, "proficiency_label": "Intermedio" },
+    { "name": "AWS / Cloud", "proficiency": 75, "proficiency_label": "Intermedio" }
+  ],
+  "interests": [
+    {
+      "name": "Ajedrez",
+      "summary": "Pensamiento estratégico y resolución de problemas.",
+      "images": []
+    },
+    {
+      "name": "Dibujo",
+      "summary": "Expresión creativa y atención al detalle.",
+      "images": []
+    }
+  ],
+  "languages": [
+    { "language": "Español", "fluency": "Nativo" },
+    { "language": "Inglés", "fluency": "B2–C1" },
+    { "language": "Portugués", "fluency": "A2" }
+  ],
+  "references": []
+}
